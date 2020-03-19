@@ -3,7 +3,7 @@ package main
 import (
 	"context"
 	"fmt"
-	"github.com/tencentyun/scf-go-lib/cloudfunction"
+	"github.com/yzs981130/scf-go-lib/cloudfunction"
 )
 
 type DefineEvent struct {
